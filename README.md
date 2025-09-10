@@ -28,7 +28,7 @@ JARs for JUnit and Hamcrest are included in the `libs/` directory.
 
 ## Build Instructions
 
-### 1. Compile all classes
+### Compile all classes
 From the project root:
 ```bash
 javac -cp .:libs/junit-4.13.2.jar:libs/hamcrest-core-1.3.jar c/*.java
